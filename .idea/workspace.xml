@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e7c0334-c537-4b90-97a3-85f9c90cffdf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/consumer/target/classes/com/example/dao/StudentDAOImpl.class" afterPath="$PROJECT_DIR$/consumer/target/classes/com/example/dao/StudentDAOImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/consumer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/consumer/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/consumer/pom.xml" afterPath="$PROJECT_DIR$/consumer/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/consumer/src/main/java/com/example/dao/StudentDAOImpl.java" afterPath="$PROJECT_DIR$/consumer/src/main/java/com/example/dao/StudentDAOImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/producer/src/main/java/com/example/service/StudentServiceDatabase.java" afterPath="$PROJECT_DIR$/producer/src/main/java/com/example/service/StudentServiceDatabase.java" />
     </list>
     <ignored path="$PROJECT_DIR$/producer/target/" />
     <ignored path="$PROJECT_DIR$/consumer/target/" />
@@ -448,15 +444,16 @@
       <workItem from="1523366075807" duration="25411000" />
       <workItem from="1523544159898" duration="3272000" />
       <workItem from="1523561795087" duration="2698000" />
-      <workItem from="1523720678907" duration="197000" />
+      <workItem from="1523720678907" duration="608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31578000" />
+    <option name="totallyTimeSpent" value="31989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
