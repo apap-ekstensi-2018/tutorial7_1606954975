@@ -12,7 +12,7 @@ import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @Service
-public class xStudentServiceDatabase implements StudentService
+public class StudentServiceDatabase implements StudentService
 {
     @Autowired
     private StudentMapper studentMapper;

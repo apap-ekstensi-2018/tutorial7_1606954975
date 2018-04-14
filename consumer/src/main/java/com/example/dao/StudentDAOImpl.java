@@ -13,8 +13,7 @@ public class StudentDAOImpl implements StudentDAO {
 
     @Override
     public StudentModel selectStudent(String npm) {
-        StudentModel student = restTemplate.getForObject("http://localhost:8181/rest/student/view/"+npm,
-                StudentModel.class);
+        StudentModel student = restTemplate.getForObject("http://localhost:8181/rest/student/view/"+npm, StudentModel.class);
         return student;
     }
 
